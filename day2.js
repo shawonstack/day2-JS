@@ -48,4 +48,13 @@ let email2 = 'blood123@gmail.com';
 
 let username2 = email2.split('@')[0];
 
-console.log(username2);
+// console.log(username2);
+
+//ck something
+let file = 'photo.png';
+let filecheck = file.includes('.png');
+console.log(filecheck);
+//first carrecter capital
+let name4 = 'blood';
+let result4 = name4.toUpperCase([0]);
+console.log(result4);
