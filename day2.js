@@ -30,4 +30,22 @@ let result = name.split(',');
 // console.log(result);
 let a = 'I am learning JS';
 let result2 = a.replace('js', 'javascript');
-console.log(result2);
+// console.log(result2);
+
+let email = '   BLOOD@GMAIL.COM   ';
+let emailGapCut = email.trim();
+let emailLower = emailGapCut.toLocaleLowerCase();
+// console.log(emailLower);
+
+// full name
+let firstName = 'Blood';
+let lastName = 'Khan';
+let nameResult = firstName.concat(' ', lastName);
+// console.log(nameResult);
+
+// find username
+let email2 = 'blood123@gmail.com';
+
+let username2 = email2.split('@')[0];
+
+console.log(username2);
