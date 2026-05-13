@@ -13,16 +13,18 @@ let res3 = number3.toFixed(2);
 
 let taka = 33.445566;
 let takares = taka.toFixed(2);
-console.log(takares);
+// console.log(takares);
 
 //perseInt()---> convert strings number to pure bolean number . its work whn the umber is complte. not decimal
 let num = '50px';
 
-console.log(parseInt(num));
-
+// console.log(parseInt(num));
+//
 const newNum = '444.45p';
-console.log(parseFloat(newNum));
+// console.log(parseFloat(newNum));
 
 let he = '10' + 5;
 let nechange = parseInt(10) + 5;
-console.log(nechange);
+// console.log(nechange);
+
+console.log('a' / 2);
