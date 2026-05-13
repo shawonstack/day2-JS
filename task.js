@@ -45,3 +45,8 @@ console.log(-10 / 0);
 // task12
 // দুটোই Number
 console.log(Number(9007199254740991n) + 1);
+let book = 'psychlogy';
+console.log(book.includes('l'));
+console.log(book.startsWith('p'));
+console.log(book.endsWith('y'));
+// baki sob parbo. ekhon code korte iccha korche na. khub simple egula
