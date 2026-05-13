@@ -28,3 +28,10 @@ let nechange = parseInt(10) + 5;
 // console.log(nechange);
 
 console.log('a' / 2);
+console.log('hey' / 3);
+console.log('shawon' * 3);
+console.log('ok' + 3);
+console.log(isNaN('abc'));
+console.log(10 / 0);
+console.log(-10 / 0);
+console.log(typeof Infinity);
