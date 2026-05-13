@@ -25,3 +25,4 @@
 // // isNaN --> muloto kono value kina ta ck kore jmn
 // console.log(isNaN(10)); // false karon 10 holo number
 // console.log(isNaN('name')); //true cz tring ta number na
+let a = 4;
