@@ -34,3 +34,14 @@ console.log(country.indexOf(0));
 //task7
 let food = 'apple, banana, mango';
 console.log(food.split(','));
+// task 9
+let program = 'i love js';
+let progrramResult = program.replace('js', 'javascript');
+console.log(progrramResult);
+// task10
+console.log(1 / 0);
+console.log(-10 / 0);
+// task11 eta pari. discribe krote cacchina hate time kom
+// task12
+// দুটোই Number
+console.log(Number(9007199254740991n) + 1);
